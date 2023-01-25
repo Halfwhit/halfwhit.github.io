@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "About me"
-date = 2023-01-25
+date = 
 slug = "about"
 draft = false
 +++
