@@ -1,5 +1,6 @@
 +++
 title = "About"
+description = "About me"
 slug = "about"
 draft = false
 +++
