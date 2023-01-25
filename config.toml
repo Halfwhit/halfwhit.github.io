@@ -1,9 +1,9 @@
 base_url = "https://halfwhit.github.io"
-theme = "zola.386"
+#theme = "zola.386"
 
 default_language = "en"
-title = "HALFWHIT'S BLOG"
-description = "A port of the BOOTSTRA.386 theme."
+title = "Halfwhit's Home"
+description = "A whole lot of nonsense"
 
 highlight_code = true
 compile_sass = true
@@ -15,10 +15,9 @@ taxonomies = [
   {name="tags", rss=true},
 ]
 
-
 [extra]
-author = "José Lopes"
-year = "2020"
+author = "Halfwhit"
+year = "2023"
 
 keywords = "zola, theme, retro, hacking"
 theme_color = "#000084"
@@ -35,9 +34,9 @@ zola386_menu = [
 
 ### SOCIAL MEDIA
 image = "https://raw.githubusercontent.com/lopes/zola.386/master/screenshot.png"
-twitter_user = "lopesoj"
-linkedin_user = "jlopesjr"
-github_user = "lopes"
+twitter_user = "halfwhit"
+linkedin_user = "whittingtonjack"
+github_user = "halfwhit"
 # gitlab_user = ""
 
 ### I18N WORDS
