@@ -1,8 +1,8 @@
-base_url = "https://zola386.netlify.app"
-# theme = "zola.386"
+base_url = "https://halfwhit.github.io"
+theme = "zola.386"
 
 default_language = "en"
-title = "ZOLA.386"
+title = "HALFWHIT'S BLOG"
 description = "A port of the BOOTSTRA.386 theme."
 
 highlight_code = true
