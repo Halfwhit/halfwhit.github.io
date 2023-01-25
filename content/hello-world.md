@@ -6,8 +6,8 @@ draft = false
 slug = "hello-world"
 
 [taxonomies]
-categories = ["blog"]
-tags = ["general", "blog"]
+categories = ["general"]
+tags = ["blog"]
 
 [extra]
 comments = true
