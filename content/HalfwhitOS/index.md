@@ -2,7 +2,7 @@
 title = "Halfwhit OS"
 description = "HalfwhitOS is my flavour of Arch Linux"
 date = 2023-01-26
-draft = false
+draft = true
 slug = "halfwhitos"
 
 [taxonomies]
