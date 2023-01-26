@@ -2,7 +2,7 @@
 title = "Lorem Ipsum"
 description = "dolor sit amet, consectetur"
 date = 2020-05-01
-draft = true
+draft = false
 slug = "lorem-ipsum"
 
 [taxonomies]
