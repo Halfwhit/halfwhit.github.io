@@ -2,7 +2,7 @@ base_url = "https://halfwhit.github.io"
 #theme = "zola.386"
 
 default_language = "en"
-title = "Halfwhit's Home"
+title = "Halfwhit's Homepage"
 description = "A whole lot of nonsense"
 
 highlight_code = true
