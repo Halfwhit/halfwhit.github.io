@@ -3,10 +3,10 @@ title = "Metasploitable 2"
 description = "A quick look at the vulnerable Metasploitable 2 box"
 date = 2023-01-26
 draft = false
-slug = "metasploitable"
+slug = "metasploitable-2"
 
 [taxonomies]
-categories = ["penetration testing"]
+categories = ["penetration-testing"]
 tags = ["metasploit", "metasploitable", "nmap"]
 
 [extra]
