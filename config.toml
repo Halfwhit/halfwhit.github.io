@@ -20,7 +20,7 @@ author = "Halfwhit"
 year = "2023"
 
 keywords = "zola, theme, retro, hacking"
-theme_color = "#000084"
+theme_color = "#282C34"
 zola386_menu = [
   {path="", name="Home"},
   {path="categories", name="Categories"},
