@@ -49,3 +49,7 @@ label_date = "Date"
 label_taxonomy = "Taxonomy"
 label_reading = "Reading time"
 label_read_more = "Read more"
+
+[markdown]
+highlight_code = true
+highlight_theme = "OneHalfDark"
