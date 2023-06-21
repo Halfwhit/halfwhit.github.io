@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://halfwhit.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://halfwhit.github.io/about/</loc>
+        <lastmod>2023-01-25</lastmod>
+    </url>
+    <url>
+        <loc>https://halfwhit.github.io/categories/</loc>
+    </url>
+    <url>
+        <loc>https://halfwhit.github.io/categories/general/</loc>
+    </url>
+    <url>
+        <loc>https://halfwhit.github.io/hello-world/</loc>
+        <lastmod>2023-01-25</lastmod>
+    </url>
+    <url>
+        <loc>https://halfwhit.github.io/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://halfwhit.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://halfwhit.github.io/tags/blog/</loc>
+    </url>
+</urlset>
